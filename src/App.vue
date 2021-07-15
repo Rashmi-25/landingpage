@@ -11,11 +11,11 @@
         <h1 class="title-font lg:text-3xl text-3xl mb-8 font-bold text-gray-900 px-16 justify-between ">
       DO YOU WANT YOUR CHILD TO MASTER THE 21st-CENTURY SKILLS THAT MATTER??</h1> 
 
-      <button class="flex mx-auto bg-transparent px-10 hover:bg-indigo-500 text-blue-700 font-semibold hover:text-white py-2 px-8 border border-indigo-500 hover:border-transparent rounded" style="position: relative; left: -135px; top: -3px;">
+      <button class="flex mx-auto bg-transparent px-10 hover:bg-indigo-400 text-blue-700 font-semibold hover:text-white py-2 px-8 border border-indigo-500 hover:border-transparent rounded" style="position: relative; left: -135px; top: -3px;">
         Start free trial
       </button>
       <br>
-      <button class="flex mx-auto bg-transparent px-10 hover:bg-indigo-500 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-indigo-500 hover:border-transparent rounded" style="position: relative; left: 94px; top: -68px;">
+      <button class="flex mx-auto bg-transparent px-10 hover:bg-indigo-400 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-indigo-500 hover:border-transparent rounded" style="position: relative; left: 94px; top: -68px;">
         Enroll Now
       </button>
 
